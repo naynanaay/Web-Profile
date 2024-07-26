@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+
+body{
+    color: white;
+}
+
+.color{
+    background-color: rgb(201, 38, 136);
+    padding: 5%;
+}
+
+.color2{
+    background-color: rgb(201, 79, 170);
+    padding: 5%;
+}
+
+.color3{
+    background-color: rgb(225, 75, 173);
+    padding: 2%;
+}
